@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+
+#qr-code{
+    margin: auto;
+    margin-top: 100px;
+    width: 210px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p{
+    color: gray;
+}
+
+img{
+    border-radius: 10px;
+    margin: 5px;
+    width: 200px;
+}
